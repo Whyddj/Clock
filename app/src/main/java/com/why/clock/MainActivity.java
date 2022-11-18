@@ -25,13 +25,9 @@ public class MainActivity extends AppCompatActivity {
         String current = time.format(new Date());
         clock.setText(current);
 
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                @SuppressLint("SimpleDateFormat") SimpleDateFormat time = new SimpleDateFormat("HH:mm:ss");
-                String current = time.format(new Date());
-                clock.setText(current);
-            }
+        button.setOnClickListener(view -> {
+            String current1 = time.format(new Date());
+            clock.setText(current1);
         });
     }
 }
