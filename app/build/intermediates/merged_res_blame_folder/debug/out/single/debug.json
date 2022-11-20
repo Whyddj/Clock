@@ -40,6 +40,10 @@
         "source": "/Users/why/.gradle/daemon/7.3.3/com.why.clock.app-main-21:/mipmap-hdpi/ic_launcher.webp"
     },
     {
+        "merged": "/Users/why/.gradle/daemon/7.3.3/com.why.clock.app-merged_res-19:/layout_item.xml.flat",
+        "source": "/Users/why/.gradle/daemon/7.3.3/com.why.clock.app-main-21:/layout/item.xml"
+    },
+    {
         "merged": "/Users/why/.gradle/daemon/7.3.3/com.why.clock.app-merged_res-19:/layout_activity_main.xml.flat",
         "source": "/Users/why/.gradle/daemon/7.3.3/com.why.clock.app-main-21:/layout/activity_main.xml"
     },

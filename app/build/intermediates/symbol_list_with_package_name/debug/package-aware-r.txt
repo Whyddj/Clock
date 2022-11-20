@@ -1827,8 +1827,9 @@ id beginning
 id blocking
 id bottom
 id bounce
-id button
 id buttonPanel
+id button_record
+id button_update
 id cache_measures
 id cancel_button
 id center
@@ -2036,6 +2037,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recycler_view
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2133,6 +2135,7 @@ id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
 id time
+id time_record
 id title
 id titleDividerNoCustom
 id title_template
@@ -2248,6 +2251,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout item
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2425,6 +2429,7 @@ string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
 string str1
+string str2
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

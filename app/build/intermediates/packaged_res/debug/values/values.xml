@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Clock</string>
     <string name="str1">更新时间</string>
+    <string name="str2">记录时间</string>
     <style name="Theme.Clock" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
